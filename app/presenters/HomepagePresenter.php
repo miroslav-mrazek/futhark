@@ -74,7 +74,7 @@ class HomepagePresenter extends BasePresenter
 			'v' => "ᚹ",
 			'w' => "ᚹ",
 			'x' => "ᚦ", # Th
-			'y' => "ᛇ",
+			'y' => "ᛇ", # Ei, Ae
 			'z' => "ᛉ",
 			' ' => " ",
 //			',' => "᛬",
